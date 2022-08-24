@@ -1,0 +1,24 @@
+.titulo{
+    color: red !important;
+    background-color: blue;
+}
+
+.subtitulo{
+    color:green ;
+    background-color: black;
+}
+
+.corpo{
+    background-color: aqua;
+}
+
+
+.titulo{
+    color: blueviolet;
+    background-color:aquamarine;
+}
+
+.titulo2{
+    color: maroon !important;
+    background-color: blue;
+}
