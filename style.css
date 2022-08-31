@@ -1,24 +1,35 @@
-.titulo{
-    color: red !important;
-    background-color: blue;
-}
-
-.subtitulo{
-    color:green ;
+*{
+    padding: 0;
+    margin: 0;
     background-color: black;
+    color: #f1f1f1;
 }
 
-.corpo{
-    background-color: aqua;
+h1{
+    color: #32b9cd;
+    font-weight: 800px;
 }
 
-
-.titulo{
-    color: blueviolet;
-    background-color:aquamarine;
+.header {
+    padding: 15px;
+    border-bottom: 3px solid #32b9cd ;
 }
 
-.titulo2{
-    color: maroon !important;
-    background-color: blue;
+.container{
+    margin: 0 auto;
+    width: 80%;
+    display: flex;    
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    width: 350px;
+    justify-content: space-between;
+    list-style: none;
+}
+
+li{
+    color: #e3b062;
 }
