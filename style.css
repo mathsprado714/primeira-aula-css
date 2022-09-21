@@ -75,3 +75,16 @@ li{
     align-items: center;
     margin: 0 15px;
 }
+.footer{
+    padding: 45px 0;
+    background-color: #32b9cd;
+    text-align: center;
+}
+.footer p {
+    color: #ffffff;
+}
+.li a{
+    color: #e3b062;
+    text-decoration: none;
+    cursor: pointer;
+}
