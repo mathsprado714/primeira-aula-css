@@ -42,7 +42,7 @@ li {
 }
 
 .banner .container {
-    height: 350px;
+    height: 350px 50px;
     align-items: center;
     justify-content: center;
 }
